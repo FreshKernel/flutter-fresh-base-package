@@ -15,7 +15,7 @@ dependencies:
 dependencies:
   fresh_base_package:
     git:
-        url: git@github.com:freshtechtips/flutter-fresh-base-package.git
+        url: https://github.com/freshplatform/flutter-fresh-base-package.git
         ref: main
 ```
 
